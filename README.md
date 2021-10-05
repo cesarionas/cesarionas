@@ -14,6 +14,6 @@
   <img align="center" alt="Vini-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Vini-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
     
-    ![Snake animation](https://github.com/cesarionas/cesarionas/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/cesarionas/blob/output/github-contribution-grid-snake.svg)
 
 </div>
