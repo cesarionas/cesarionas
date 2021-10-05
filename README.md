@@ -1,6 +1,6 @@
 ### Salveeeee! Eu sou o Vini!
 
-- 🔭 Mudando de carreira
+- 🔭 Transição de carreira
 - 🤖 Estudando Desenvolvimento de aplicativos Android 
 - ⌛  Cursando Desenvolvimento Full Stack
 
