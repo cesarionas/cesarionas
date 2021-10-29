@@ -1,4 +1,4 @@
-## Oiii eu sou a Vini, Desenvolvedor em formação!
+## Salve eu sou o Vini, Desenvolvedor em formação!
 <div align="center">
   <a href="https://github.com/cesarionas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cesarionas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
