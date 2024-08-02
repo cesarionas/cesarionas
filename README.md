@@ -1,4 +1,4 @@
-## Salve!!! Sou o Vini, Desenvolvedor em formação!
+## Olá! Eu sou o Vini!
 <div align="center">
   <a href="https://github.com/cesarionas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cesarionas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/viniciuscn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarionas)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
